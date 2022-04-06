@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: #F1C530 ;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 100px;
+}
+.supervilain{
+    background-image: url(./Illustration/img7.png);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    color: white;
+
+}
+.titre{
+font-size: 50px;
+}
+.quatre{
+    padding: 300px 0 100px 200px;
+}
+ footer{
+    background-color: black;
+    color: white;
+    font-display: 10px;
+    align-items: center;  
+}
+.jaune{
+    background-color: #F1C530;
+}
+.Dennis{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;
+}
+.Bouffon{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;
+}
+.Octopus{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;
+}  
+.un{
+    display: flex;
+    justify-content: space-around;
+   padding-top: 100px;
+
+}
+.homme{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;
+}   
+.Vert{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;  
+}
+.venom{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;   
+}
+.deux{
+    display: flex;
+    justify-content: space-around;
+   padding-top: 100px;
+ 
+}
+.Lézard{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;   
+}  
+.Electro{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;    
+}
+.Rhino{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;     
+}
+.trois{
+    display: flex;
+    justify-content: space-around;
+   padding-top: 100px;
+}
+.Vautour{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;     
+}
+
+.Mysterio{
+    width: 320px;
+    border: 8px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none;     
+}
+.cinq{
+    display: flex;
+    justify-content: space-around;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+H4{
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-display: 10px;
+    align-items: center;  
+}
+
+.logo img{
+    background-color: #F1C530;
+    border-radius: 50px;
+    margin: 0 15px;
+    padding: 10px;
+    
+}
+.logo{
+    text-align: center;
+    margin: 50px 0;
+    
+
+}
+
+.BAS{
+    padding: 100px 0 ;
+
+}
+.liens{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.liens select{
+    background-color: #F1C530;
+    color: white;
+    border-radius: 5px;
+    padding: 0 25px 0 5px;
+}
+.pic{
+    padding: 0 10px;
+}

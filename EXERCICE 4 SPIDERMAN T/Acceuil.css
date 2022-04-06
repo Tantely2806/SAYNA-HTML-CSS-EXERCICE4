@@ -1,0 +1,162 @@
+ body{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: #B11313;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 100px;
+
+}
+
+.header .lien a{
+    text-decoration: none;
+    color: white;
+    
+}
+.header .lien{
+    display: flex;
+    gap:20px;
+}
+.jaune{
+    margin-top: -20px;
+    background-color: #f1c530;
+}
+.photo{
+    position: relative;
+    top: 300px;
+    left: 100px;
+}
+.trois{
+    display: flex;
+    background-color: #B11313;
+    justify-content: space-evenly;
+    color: white;
+    height: 600px;
+}
+.formulaire{
+    margin-top: 100px;
+}
+.formulaire input{
+        display: block;
+        width: 250px;
+        background-color: inherit;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 10px 0 ;
+}
+.formulaire input::placeholder{
+    color: white;
+    font-size: 11px;
+    padding-left: 20px;
+}
+
+.formulaire textarea{
+    background-color: inherit;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.formulaire textarea::placeholder{
+    color: white;
+    padding-left: 20px;
+}
+.formulaire button{
+    background-color: inherit;
+    padding: 10px 50px;
+    border: 1px solid white;
+    border-radius: 15px;
+    color: white;
+    position: relative;
+    top: 50px;
+    right: 200px;
+}
+
+.blue{
+    background-color: #114c92;
+    display: flex;
+    gap: 100px;
+    padding: 0 100px;
+}
+
+.left, .right{
+    width: 80%;
+}
+
+.right{
+    margin-top: 70px;
+}
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #114c92;
+}
+
+
+.btn button{
+    background-color: inherit;
+    padding: 10px 10px;
+
+    
+}
+.internet{
+    background-color: #114c92;
+    padding-top: 10px;
+ }
+ 
+   
+.logo img{
+    background-color: #B11313;
+}
+.bas img {
+    align-content: center;
+    justify-content: space-around;
+}
+.liens{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-display: 10px;
+    align-items: center;
+
+}  
+
+
+.logo img{
+    background-color: #B11313;
+    border-radius: 50px;
+    margin: 0 15px;
+    padding: 10px;
+    
+}
+.logo{
+    text-align: center;
+    margin: 50px 0;
+    
+
+}
+
+.BAS{
+    padding: 100px 0 ;
+
+}
+.liens{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.liens select{
+    background-color: #B11313;
+    color: white;
+    border-radius: 5px;
+    padding: 0 25px 0 5px;
+}

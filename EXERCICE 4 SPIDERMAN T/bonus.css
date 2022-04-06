@@ -1,0 +1,81 @@
+
+ body{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: #B11313;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 100px;
+
+}
+
+.header .lien a{
+    text-decoration: none;
+    color: white;
+    
+}
+.header .lien{
+    display: flex;
+    gap:20px;
+}
+
+.soon{
+    background-image: url(./Illustration/img35.png);
+    background-size: cover;
+    height: 700px;
+    margin-top: -40px;
+    color: white;
+}
+.soon div{
+    position: relative;
+    top: 400px;
+    left: 200px;
+}
+.soon div h1{
+    font-size: 50Px;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-display: 10px;
+    align-items: center;
+
+}  
+
+
+.logo img{
+    background-color: #B11313;
+    border-radius: 50px;
+    margin: 0 15px;
+    padding: 10px;
+    
+}
+.logo{
+    text-align: center;
+    margin: 50px 0;
+    
+
+}
+
+.BAS{
+    padding: 100px 0 ;
+
+}
+.liens{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.liens select{
+    background-color: #B11313;
+    color: white;
+    border-radius: 5px;
+    padding: 0 25px 0 5px;
+}
